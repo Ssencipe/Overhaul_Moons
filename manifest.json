@@ -2,7 +2,8 @@
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
 		"Evaisa-LethalLib-0.14.2",
-		"IAmBatby-LethalLevelLoader-1.1.6"
+		"IAmBatby-LethalLevelLoader-1.1.6",
+    "AudioKnight-StarlancerAIFix-3.3.0"
   ],
   "description": "Heavily WIP currently",
   "name": "Overhaul_Moons",
