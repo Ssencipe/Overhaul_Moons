@@ -1,1 +1,1 @@
-Currently still in alpha, nothing cool to see yet.
+This is currently still just a beta build. Will update and add more details as I get more feedback, but until then screenshots, map details, and similar information will not yet be included as it is subject to change. This mod currently contains Mycordytum, a mushroom themed map. There is a thread in the Lethal Company Modding Discord dedicated to discussing the moon and feedback.
