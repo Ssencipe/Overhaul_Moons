@@ -1,12 +1,12 @@
 {
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-		"Evaisa-LethalLib-0.14.2",
+		"Evaisa-LethalLib-0.14.4",
 		"IAmBatby-LethalLevelLoader-1.1.6",
     "AudioKnight-StarlancerAIFix-3.3.0"
   ],
-  "description": "This is a WIP beta build for currently just 1 moon: Mycordytum - a mushroom moon.",
+  "description": "Adds 1 new moon: Mycordytum a mushroom themed moon.",
   "name": "Overhaul_Moons",
-  "version_number": "0.1.0",
+  "version_number": "0.2.1",
   "website_url": "https://github.com/Ssencipe/Overhaul_Moons"
 }
