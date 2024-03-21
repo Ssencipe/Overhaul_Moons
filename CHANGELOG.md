@@ -1,3 +1,14 @@
+# Version 0.2.2:
+
+- Fixed ship area trigger being offset
+- Tweaked sun light and fog values
+- Improved the grace period for spawns at the beginning of the day
+- Made minor tweaks to landscape
+- Tweaked AI spawn/navigation nodes a tiny bit
+- Made the [REDACTED] volume more effective but smaller
+- Polished up the README
+
+---
 # Version 0.2.1:
 
 - Reduced the local fog
