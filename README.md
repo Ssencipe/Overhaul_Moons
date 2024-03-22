@@ -1,6 +1,6 @@
-### Overhaul Moons
+# Overhaul Moons
 
-Overhaul Moons is a mood mod that will contain multiple moons in one package.
+Overhaul Moons is a moon mod that will contain multiple moons in one package.
 
 It currently adds just 1 moon: Mycordytum. 
 

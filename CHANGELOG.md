@@ -1,3 +1,14 @@
+# Version 0.3.0:
+
+- Reworked sky, sun, fog, and lighting elements into a physics based lighting system with reworked settings
+- Fog is thicker but more distanced for a moodier setting
+- The sun takes a different path across the sky and no longer clips into terrain when setting
+- Retextured and adjusted UVs for every fungi so that they all look dirtier and more natural
+- Replaced the entrances with custom models
+- Minor terrain tweaks
+- Small visual tweaks to Nightcap and Bacillipad models specifically
+
+---
 # Version 0.2.2:
 
 - Fixed ship area trigger being offset
