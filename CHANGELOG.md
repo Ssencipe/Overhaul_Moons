@@ -1,3 +1,10 @@
+# Version 0.3.1:
+
+- Swapped from volumetric clouds to cloud layer for performance
+- Changed cloud and sky colors again so that the Chanteregallias can stick out
+- Increased Gnome volume radius by one (found the sweet spot)
+
+---
 # Version 0.3.0:
 
 - Reworked sky, sun, fog, and lighting elements into a physics based lighting system with reworked settings
@@ -7,7 +14,7 @@
 - Retextured and adjusted UVs for every fungi so that they all look dirtier and more in line with base game
 - Replaced the entrances with custom models
 - Minor terrain tweaks
-- Small visual tweaks to Nightcap, Bloodamanita, and Bacillipad models specifically
+- Small visual tweaks to Nightcap, Bloodamanita, and Bacillipad
 - Minor tweaks to water visuals
 - Further reduced Gnome effect radius
 
