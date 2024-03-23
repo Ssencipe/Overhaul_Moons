@@ -20,9 +20,11 @@ This mod is still being worked on, so the visuals will be subject to change and 
 ### Moon Images:
 
 <img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumTopDown.png?raw=true" alt="Top Down" width="1080"/>
-<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumLanding.jpg?raw=true" alt="Top Down" width="1080"/>
-<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumWide.jpg?raw=true" alt="Top Down" width="1080"/>
-<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordtumRiver.jpg?raw=true" alt="Top Down" width="1080"/>
+<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumSky.jpg?raw=true" alt="Sky" width="1080"/>
+<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumPads.jpg?raw=true" alt="Pads" width="1080"/>
+<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumRiver.jpg?raw=true" alt="River" width="1080"/>
+<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumEntrance.jpg?raw=true" alt="Entrance" width="1080"/>
+<img src="https://github.com/Ssencipe/Overhaul_Moons/blob/main/Images/MycordytumNight.jpg?raw=true" alt="Night" width="1080"/>
 
 ### Bug Reports and Feedback: 
 
