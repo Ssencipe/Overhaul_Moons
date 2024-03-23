@@ -1,3 +1,12 @@
+# Version 0.3.2:
+
+- Changed Drop Ship music (see README or mod page for source)
+- Tweaked Drop Ship visuals (will be overhauled more later)
+- Reduced dirtiness of Sungus, Moonshroom, Bloodamanita, Bacillipad, Glowagaric, and Mantleshelf
+- Moved Gnome to more remote reaches of the map and reverted the last volume change (I was wrong)
+- Further improved README format
+
+---
 # Version 0.3.1:
 
 - Swapped from volumetric clouds to cloud layer for performance
