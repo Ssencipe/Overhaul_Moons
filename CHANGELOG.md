@@ -1,3 +1,51 @@
+# Version 0.5.0:
+
+- Further modified Drop Ship visual
+- Made Spore Dragon stop slightly further away (Diversity based fixes)
+
+---
+# Version 0.4.2:
+
+- Fixed issue with level technically not generating an explicit dungeon and instead defaulting to factory or any capable modded interior
+- Factory will now spawn as the primary interior with a weight of 200 (67% chance) and mansion will spawn with a weight of 100 (33% chance)
+- Baked occlusion culling onto all mushrooms aside from Chanteregallia (and the ones attached to it), Glowagaric, Bacillipads, and Mantleshelf
+- Tweaked Spore Dragon audio values to be more audible and mysterious
+- Increased stopping distance of Spore Dragon so that it doesn't just soft lock you with Diversity
+
+---
+# Version 0.4.1:
+
+- Fixed issue with Navmesh not detecting level props after moving them in hierarchy
+- Made Spore Dragon stop a set distance away to help not break things with Diversity
+- Added glow post processing effect to Spore Dragon in set radius
+
+---
+# Version 0.4.0:
+
+- Added PathfindingLagFix as a dependency for edge cases with outside enemies
+- Tweaked a couple of AI nodes that were slightly out of place
+- Added a few tactically placed mushrooms to break up linear pathways and line of sight
+- Added some ambient sounds that are weird but off-putting - should catch people off guard (the mushrooms are in your head get them out)
+- Made the Drop Ship into a giant mushroom and moved around some components to fit
+- Fixed minor issue with custom Drop Ship music
+- The Spore Dragon now roams the these lands (another experimental subspecies to test out)
+- Accidentally released under "v0.3.5" before quickly changing version number
+
+---
+# Version 0.3.4:
+
+- Fixed entrance triggers having shifted out of place
+
+---
+# Version 0.3.3:
+
+- Placed down a solid 200 enemy AI nodes around the moon to enhance enemy behavior
+- Tweaked enemy spawn rates a tiny bit
+- Made the Gnome a bit less loud
+- Increased local fog height so that it's more consistent throughout the map
+- Made the sky more space-like
+
+---
 # Version 0.3.2:
 
 - Changed Drop Ship music (see README or mod page for source)

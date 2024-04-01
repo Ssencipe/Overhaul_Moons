@@ -32,5 +32,5 @@ I can be reached out to at the [Lethal Company Modding Discord](https://discord.
 
 ### Sources:
 
-Mycordytum Dropship Music:
-Music by <a href="https://pixabay.com/users/lucadialessandro-25927643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190083">Luca Di Alessandro</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190083">Pixabay</a>
+- Mycordytum Drop Ship Music by <a href="https://pixabay.com/users/lucadialessandro-25927643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190083">Luca Di Alessandro</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190083">Pixabay</a>
+- Various ambient sounds from Science Fiction Sound FX Pack Vol. 2 by Ovani Sounds
