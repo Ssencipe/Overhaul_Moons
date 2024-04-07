@@ -1,7 +1,20 @@
-# Version 0.5.0:
+# Version 1.0.0:
 
-- Further modified Drop Ship visual
+Mycordytum
+- Added tiny mushrooms all over as a sort of "foiliage"
+- Added spore clouds ands falling spores and particle VFX
+- Further modified Drop Ship visuals
 - Made Spore Dragon stop slightly further away (Diversity based fixes)
+- Tweaked fog and sky colors a bit and added a mushroomy skybox
+- Reduced Drop Ship far music volume
+- Tweaked scrap types found in interior
+- Made custom orbit moon object
+- Minor tweaks to terrain
+- Upped indirect lighting
+- Did various backend tweaks to support multiple moons in one mod
+
+Terminus
+- Initial release
 
 ---
 # Version 0.4.2:

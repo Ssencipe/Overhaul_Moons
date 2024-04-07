@@ -1,13 +1,13 @@
 {
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-		"Evaisa-LethalLib-0.14.4",
+		"Evaisa-LethalLib-0.15.1",
 		"IAmBatby-LethalLevelLoader-1.1.6",
     "AudioKnight-StarlancerAIFix-3.3.0",
     "Zaggy1024-PathfindingLagFix-1.2.1"
   ],
-  "description": "Adds 1 new moon: Mycordytum a moon covered in a colony of massive mushrooms.",
+  "description": "Adds 2 new moons: Mycordytum, a moon covered in a colony of massive mushrooms; and Terminus, and supernatural moon with a haunted cemetary.",
   "name": "Overhaul_Moons",
-  "version_number": "0.4.2",
+  "version_number": "1.0.0",
   "website_url": "https://github.com/Ssencipe/Overhaul_Moons"
 }
